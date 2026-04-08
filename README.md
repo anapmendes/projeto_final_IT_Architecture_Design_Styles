@@ -17,7 +17,7 @@ Repositório destinado à entrega do trabalho final da disciplina de Arquitetura
 
 ## 📹 Apresentação em Vídeo
 
-[**Clique aqui para assistir ao vídeo de apresentação do projeto**](#) *https://youtu.be/Oj4KLN6fTwc*
+Clique aqui para assistir ao vídeo de apresentação do projeto: *https://youtu.be/Oj4KLN6fTwc*
 
 > **Nota ao Professor:** No vídeo, todos os integrantes da equipe apresentam os detalhes do projeto, motivações, riscos e a evolução dos desenhos arquiteturais.
 
