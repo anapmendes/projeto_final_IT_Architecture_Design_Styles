@@ -68,7 +68,7 @@ Os diagramas de arquitetura foram desenvolvidos nas camadas AS-IS (Monolítico) 
 * **AS-IS:** `C3 - AS IS.png`
 * **TO-BE:** `C3 - TO BE.png`
 
-> **Nota:** Todos os diagramas em alta resolução estão disponíveis na raiz deste repositório e também foram incluídos na documentação PDF.
+> **Nota:** Todos os diagramas em alta resolução estão disponíveis na pasta entregáveis deste repositório e também foram incluídos na documentação PDF. Todos os arquivos estão na pasta entregáveis.
 
 ---
 
